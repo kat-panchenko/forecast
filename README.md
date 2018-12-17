@@ -1,2 +1,2 @@
 # forecast
-Layout of forecast web-page
+Repository of layout of forecast web-page
